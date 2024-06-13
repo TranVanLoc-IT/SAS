@@ -337,7 +337,7 @@ Go
 CREATE TABLE Lesson
 (
 	lessonId CHAR(5),
-	dateActive date,
+	dateActive date unique,
 	teacherId int,
 	lesson_content nvarchar(max),
 	shiftId int,
@@ -526,12 +526,13 @@ begin
 	group by student.studentId, student.firstName, student.lastName 
 end
 go
-Create PROC GetLessonList(@subjectId int, @teacherId int)
+create PROC GetLessonList(@subjectId int, @teacherId int)
 as
 begin
-	SELECT lesson.lessonId, lesson.dateActive FROM Lesson
+	SELECT distinct lesson.lessonId, lesson.dateActive FROM Lesson
 	where subjectId = @subjectId
-	AND teacherId = @teacherId order by dateactive asc
+	AND teacherId = @teacherId
+	order by dateactive asc
 end
 GO
 
