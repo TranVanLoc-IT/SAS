@@ -92,6 +92,6 @@ email: **loctran23.1.2003@gmail.com**. pass: **TranVLoc@2003**
 *Chỉ đăng nhập bằng email, mã giảng viên chưa xử lý.
 
 <h4 style="color: green">Database</h4>
-bacpac | sql|
+bacpac | sql |
 | ---- | ---- |
 | right click database folder in ssms > tasks> import datatier (priority to use) | run script |
