@@ -1,0 +1,40 @@
+{
+    "2": [
+        {
+            "id": 1,
+            "title": "Họp hội đồng coi thi THPTQG 2024",
+            "timeUp": "12-6-2024",
+            "timeEvent": "15-06-2024",
+            "content": "Chuẩn bị tốt công tác coi thi kì thi THPTQG 2024 tại cơ sở 140 Lê Trọng Tấn, đề nghị giảng viên có mặt đúng giờ tại phòng F101.",
+            "seen": 0
+        },
+        {
+            "id": 3,
+            "title": "Báo cáo tiến độ điểm danh môn học Công nghệ phần mềm",
+            "timeUp": "1-6-2024",
+            "timeEvent": "16-06-2024",
+            "content": "Học kỳ II năm học 2023 - 2024 kết thúc, đảm bảo tiến độ theo dõi lịch học cho sinh viên yêu cầu bổ sung danh sách điểm danh sinh viên trước ngày 15/06/2024",
+            "seen": 0
+        }
+    ],
+    "1": [  
+        {
+            "id": 2,
+            "title": "Lịch giảng dạy hè đã được cập nhật",
+            "timeUp": "01-06-2024",
+            "timeEvent": "06-06-2024",
+            "content": "Lịch giảng dạy hè đã được cập nhật vì một số lớp cắt giảm và mở thêm, giảng viên xem / kiểm tra lịch dạy",
+            "seen": 0
+        }
+    ],
+    "3": [
+        {
+            "id": 4,
+            "title": "Báo cáo tiến độ điểm danh môn học Công nghệ phần mềm",
+            "timeUp": "1-6-2024",
+            "timeEvent": "16-06-2024",
+            "content": "Học kỳ II năm học 2023 - 2024 kết thúc, đảm bảo tiến độ theo dõi lịch học cho sinh viên yêu cầu bổ sung danh sách điểm danh sinh viên trước ngày 15/06/2024",
+            "seen": 0
+        }
+    ]
+}

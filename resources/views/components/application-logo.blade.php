@@ -1,0 +1,1 @@
+<img src="{{asset('logoSchool.png')}}" class="w-1/4 h-1/4 mx-auto bg-transparent" alt="">

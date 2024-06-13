@@ -1,0 +1,33 @@
+{
+  "important": [
+    {
+      "id": 1,
+      "title": "Kết thúc học kỳ, thông báo kế hoạch giảng dạy 2024 - 2025",
+      "timeUp": "12-6-2024",
+      "timeEvent": "15-06-2024",
+      "content": "Chuẩn bị tốt công tác cho học kỳ mới và kết thúc học kì 2023 - 2024 ...",
+      "url":"",
+      "teacherHasSeen": [{"teacherId": 0}]
+    },
+    {
+      "id": 2,
+      "title": "Đánh giá phản hồi sinh viên về chất lượng giảng dạy",
+      "url":"",
+      "timeUp": "1-6-2024",
+      "timeEvent": "16-06-2024",
+      "content": "Đánh giá phản hồi sinh viên về chất lượng giảng dạy năm 2023 - 2024 xem kết quả tại ...",
+      "teacherHasSeen": [{"teacherId": 0}]
+    }
+  ],
+  "normal": [
+    {
+      "id": 1,
+      "title": "Thông báo mở khoa đào tạo mới",
+      "url":"",
+      "timeUp": "01-06-2024",
+      "timeEvent": "06-06-2024",
+      "content": "Nhằm đổi mới sáng tạo, đa dạng ngành nghề ...",
+      "teacherHasSeen": [{"teacherId": 0}]
+    }
+  ]
+}
